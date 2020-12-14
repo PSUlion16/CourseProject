@@ -8,7 +8,7 @@
 		- final code for the Doc2Vec Twitter Sarcasm model
 	CS410_Classification_Demo LINK!!!
 		- 20 Minute Demonstration of project, code, issues
-			- https://youtu.be/6odZr707hIU
+			- https://mediaspace.illinois.edu/media/t/1_fltka8gr
 	project_proposal_ctoombs2.pdf
 		- proposal for project
 	project_status_report_chris_toombs.pdf
